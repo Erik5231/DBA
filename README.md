@@ -1,3 +1,4 @@
+https://www.samuraj-cz.com/clanek/obecny-uvod-do-sifrovani-dat/
 # DBA
 
 mysql -u [jmeno] -p
